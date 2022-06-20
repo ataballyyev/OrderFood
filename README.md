@@ -8,6 +8,7 @@
 * RxJava
 * Retrofit
 * Glide
+* Dagger 2
 
 ## Images
 ![alt_text](https://github.com/ataballyyev/OrderFood/blob/main/app/src/main/res/drawable/src_1.png?raw=true)
